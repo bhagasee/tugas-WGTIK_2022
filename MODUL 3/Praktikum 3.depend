@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1634295932 source:c:\users\biggus dickus\documents\cpp\praktikum 3\main.cpp
+	<iostream>
+	"catalog.h"
+
+1634294716 source:c:\users\biggus dickus\documents\cpp\praktikum 3\catalog.cpp
+	<iostream>
+	"catalog.h"
+
+1634295932 c:\users\biggus dickus\documents\cpp\praktikum 3\catalog.h
+	<iostream>
+
+1666689942 source:d:\sem 3\struktur data\praktikum\praktikum 3\catalog.cpp
+	<iostream>
+	"catalog.h"
+
+1666689942 d:\sem 3\struktur data\praktikum\praktikum 3\catalog.h
+	<iostream>
+
+1666689942 source:d:\sem 3\struktur data\praktikum\praktikum 3\main.cpp
+	<iostream>
+	"catalog.h"
+
+1666689942 source:d:\qulyeah\qulyeah new journey\struktur data\praktikum\modul 3\main.cpp
+	<iostream>
+	"catalog.h"
+
+1666689942 d:\qulyeah\qulyeah new journey\struktur data\praktikum\modul 3\catalog.h
+	<iostream>
+
